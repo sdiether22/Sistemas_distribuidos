@@ -1,0 +1,4 @@
+grant codeBase "file:/home/sebastian/Documentos/Practica06/Parte03"
+{
+permission java.security.AllPermission;
+};
